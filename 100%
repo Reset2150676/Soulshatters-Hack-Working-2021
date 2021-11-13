@@ -1,0 +1,588 @@
+game.Players.LocalPlayer.Character.Head.HealthBar.Frame.PName.Text = "Sans"
+game.Players.LocalPlayer.ManaBar.Bar.BackgroundColor3 = Color3.fromRGB(255, 14, 14)
+game.Players.LocalPlayer.StaminaBar.Bar.BackgroundColor3 = Color3.fromRGB(255, 14, 14)
+game.Players.LocalPlayer.CHECKINFO..DefenseText = "DEF - ???"
+game.Players.LocalPlayerInfo.Attack.Text = "ATK - ???"
+local Event = game.ReplicatedStorage.SetName
+local name = "Determined Dream"
+Event:FireServer(A_1)
+
+--song settings
+local music = Instance.new("Sound",game.Players.LocalPlayer:WaitForChild("PlayerGio"))
+music.SoundId = "rbxassetid://703843583"
+music.Looped = true
+music:Play()
+
+--scroll down for more sensitive info, only admins should read this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+--you got jebaited retard, you thought!! :joy:
+
+if syn then
+game.Players.LocalPlayer:Kick("This script requires synapse x to run. Sorry mate!")
+end
+
+while true do wait() print"you got jebaited" end
+local rs = game:GetService("RunService")
+rs.RenderStepped:connect(function()
+print"jebaited by 3dsonsuce01/nylium. L"
+
+end)
+while wait() do setclipboard"you got jebaited" end
+
+
+--troll script by 0_0#6969
+
+
+
+
+wait(9)
+while true do print"crashed" end
